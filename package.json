@@ -7,6 +7,7 @@
     "dev": "vite"
   },
   "dependencies": {
+    "echarts": "^5.3.3",
     "lit": "^2.0.0-rc.2"
   },
   "devDependencies": {
